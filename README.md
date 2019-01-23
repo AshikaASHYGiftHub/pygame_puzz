@@ -1,2 +1,2 @@
-# pygame_puzz
-Slide Puzzle using pygame
+# pygame
+Game using pygame
